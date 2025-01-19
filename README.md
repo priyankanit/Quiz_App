@@ -16,23 +16,23 @@ Progress tracking with scores displayed at the end of each quiz.
 
 Visual feedback for correct and incorrect answers.
 
-Dynamic Quizzes:
+## Dynamic Quizzes:
 
 Fetches quiz data from an external API.
 
 Supports multiple types of questions.
 
-User Experience:
+## User Experience:
 
 Smooth animations and responsive design.
 
 Simple and intuitive navigation.
 
-State Management:
+## State Management:
 
 Provider is used to manage the state of the application, ensuring scalability and maintainability.
 
-Technologies Used
+## Technologies Used
 
 Framework: Flutter
 
